@@ -4,7 +4,7 @@ Simple way to get Keyboard Event from vue js project
 
 ### Add EventListener for keyboard
 
-When components is lunch, add event that will listen keyboard event (keydown, keypress et keyup are available)
+When component is launch, add methods that will be executed when you press a keyboard key (keydown, keypress et keyup are available)
 
 ```
 mounted () {
