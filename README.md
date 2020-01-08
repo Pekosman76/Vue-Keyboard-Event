@@ -1,4 +1,4 @@
-# Project Title
+# Vue Keyboard Event
 
 Simple way to get Keyboard Event from vue js project
 
